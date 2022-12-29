@@ -1,4 +1,4 @@
 spring:
   r2dbc:
     username: tiger
-    url: r2dbc:h2:mem:Cats
+    url: r2dbc:h2:mem://./Cats
